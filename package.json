@@ -5,17 +5,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/resin-io-playground/node-sense-hat.git"
+    "url": "git+https://github.com/EmpiricalHub/node-sense-hat.git"
   },
   "author": "Cameron Diver <cameron@resin.io>",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/resin-io-playground/node-sense-hat/issues"
-  },
   "homepage": "https://github.com/resin-io-playground/node-sense-hat#readme",
   "dependencies": {
     "nodeimu": "^2.1.9",
-    "sense-hat-led": "^1.0.1",
     "sense-joystick": "0.0.2"
   }
 }
